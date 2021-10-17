@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<prices>  
+<price>  
+  <site>Netflix</site>  
+  <link>https://www.netflix.com/in/title/80158042</link>  
+</price> 
+<price>  
+  <site>Amazon</site>  
+  <link>https://www.amazon.com/Dear-Zindagi-Shah-Rukh-Khan/dp/B01N1UMCHL</link>  
+</price> 
+
+</prices>
